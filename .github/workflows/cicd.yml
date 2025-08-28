@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.vigneshsre }}/simple-app:latest
+          tags: ${{ secrets.vignesh-devops8 }}/simple-app:latest
